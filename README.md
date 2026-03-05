@@ -31,7 +31,7 @@ Now that you have your Terminal app running, let's get the hang of some of the m
 
 `pwd`: This command tells the computer to `print working directory`, which is another way of saying "tell me where I am in my computer system." You'll use this a lot to figure out where you are, especially when you start moving around with...
 
-`cd`: ...this command, which means `change directory`. This command can move you from one directory to another. If I was in `Users/avicens` and I wanted to get to my `Desktop`, I'd type `cd Desktop`. If I want to move up one level, I'd type `cd ..`, and if I wanted to move two levels up, I'd type `cd ../..`. By default, a Unix system will start you in your `home` directory (represented typically by a `~`).
+`cd`: ...this command, which means `change directory`. This command can move you from one directory to another. If I was in `Users/databae` and I wanted to get to my `Desktop`, I'd type `cd Desktop`. If I want to move up one level, I'd type `cd ..`, and if I wanted to move two levels up, I'd type `cd ../..`. By default, a Unix system will start you in your `home` directory (represented typically by a `~`).
 
 `ls`: This command will list all* of the files and directories in a directory. So if you type `pwd` to figure out where you are, you can use `ls` to see what files and directories are in your current working directory. This command has a whole host of options, so type `man ls` to get the full scope.
 
@@ -122,7 +122,7 @@ How many rows are in this spreadsheet? You can count manually in Excel, sure. Or
 
 Ok, so let's try CSVKit. For a quick peek at that file, type `csvlook fatal[tab complete]`.
 
-![csvlook raw screenshot ps](police_shootings_csvlook_ss.png)
+![csvlook raw screenshot ps](images/police_shootings_csvlook_ss.png)
 
 Ack. Not so good. Let's clean that up a bit by piping the output of that command into a `less -S` command, which allows us to look at the data one page at a time. With `-S` we cut the lines off at the width of our terminal window, so we can organize things a bit. So you're going to type in `csvlook fatal[tab complete] | less -S`. You can see the left and right arrows to see the full rows. Hit `q` to get out of that view.
 
@@ -152,7 +152,7 @@ Interesting. Obviously you're not going to write a story relying only on this su
 
 I want to dig in a bit on the type of race of victims that were reportedly "unarmed". Luckily we can do this very easily. First, let's grab all the rows that match "unarmed": `csvcut 1-8 shoot[tab complete] | csvgrep -c armed_with -m "unarmed" | csvsort -c "race" -r | csvlook`
 
-![Supermarket screenshot](images/ps_unarmed_ss.png)
+![unarmed screenshot](images/ps_unarmed_ss.png)
 
 So now we have data for just the unarmed victims. We can break this off into its own data set rather easily. If you press the `up` arrow you can cycle through your previous commands so you don't have to type that long string again. Do that until you come to that very long command we just did. Take off the last command and the pipe `| csvlook` (it'll help with formatting), and add the redirect `>` and a new filename like `fs_unarmed.csv`.
 
