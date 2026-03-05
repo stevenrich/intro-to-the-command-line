@@ -9,7 +9,7 @@ The command line is the place where you can give your computer text commands tha
 
 On your Mac, enter `command + spacebar` and type `Terminal` into the search bar. That will launch `Terminal.app`.
 
-![spotlight screenshot](images/terminal_spotlight_ss.png.png)
+![spotlight screenshot](images/terminal_spotlight_ss.png)
 
 There are ways to customize the way your Terminal looks and many people use alternatives like [iTerm](https://www.iterm2.com/). It's up to you -- the world is your oyster!
 
@@ -112,7 +112,7 @@ Let's get out of our `QuickTest` directory with `cd ..`. Now let's remove that f
 That was just a quick example to show how we can create directories, files, files within directories, and then remove them.
 
 #### Let's jump in to CSVKit.
-For my quick tutorial we'll be using fatal police shootings data I helped collect over a ten-year period when I was. a data reporter for [The Washington Post](https://www.washingtonpost.com). The file we'll start with is called [fatal-police-shootings-data.csv](https://github.com/stevenrich/intro-to-the-command-line/blob/master/fatal-police-shootings-data.csv). To get the raw data, click on the file name in the main repo, click `Raw` to get the raw data, and then save-as with whatever file name you want in the `.csv` format.
+For my quick tutorial we'll be using [fatal police shootings data](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) I helped collect over a ten-year period when I was a data reporter for [The Washington Post](https://www.washingtonpost.com). The file we'll start with is called [fatal-police-shootings-data.csv](https://github.com/stevenrich/intro-to-the-command-line/blob/master/fatal-police-shootings-data.csv). To get the raw data, click on the file name in the main repo, click `Raw` to get the raw data, and then save-as with whatever file name you want in the `.csv` format.
 
 The data set includes demographic info, location data, threat type, and other information that could come in handy depending on what you're trying to do. You could always open Excel to peek at your data:
 
@@ -122,7 +122,7 @@ How many rows are in this spreadsheet? You can count manually in Excel, sure. Or
 
 Ok, so let's try CSVKit. For a quick peek at that file, type `csvlook fatal[tab complete]`.
 
-![csvlook raw screenshot uk](police_shootings_csvlook_ss)
+![csvlook raw screenshot ps](police_shootings_csvlook_ss.png)
 
 Ack. Not so good. Let's clean that up a bit by piping the output of that command into a `less -S` command, which allows us to look at the data one page at a time. With `-S` we cut the lines off at the width of our terminal window, so we can organize things a bit. So you're going to type in `csvlook fatal[tab complete] | less -S`. You can see the left and right arrows to see the full rows. Hit `q` to get out of that view.
 
