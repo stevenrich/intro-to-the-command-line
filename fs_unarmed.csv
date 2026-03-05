@@ -1,0 +1,566 @@
+date,armed_with,city,state,name,age,gender,race
+2017-12-20,unarmed,Farmington,NM,Frankie Anchondo,35,male,
+2018-03-23,unarmed,Bogalusa,LA,Daniel Allen Young,32,male,
+2020-02-21,unarmed,Phoenix,AZ,Lindy Bowie,30,female,
+2020-02-26,unarmed,Garden Grove,CA,James Salazar,,male,
+2020-03-21,unarmed,Taylorsville,UT,Bryan Pena,28,male,
+2020-10-04,unarmed,Chula Vista,CA,Christopher Ulmer,30,male,
+2021-08-05,unarmed,Hartford,VT,Joseph John Howard,35,male,
+2021-08-07,unarmed,Bakersfield,CA,Che Noe Zuniga Jr.,21,male,
+2021-08-24,unarmed,Payson,AZ,,31,male,
+2021-12-10,unarmed,Antioch,CA,Guadalupe Zavala,55,male,
+2022-02-20,unarmed,Margate,FL,Louisson Pierrot,38,male,
+2022-04-11,unarmed,Salem,OR,Tayler Shannon Osborne,28,male,
+2022-04-19,unarmed,Gordon County,GA,Chris Honea,26,male,
+2022-04-27,unarmed,Orange Park,FL,Daniel Ryan Palato,39,male,
+2022-06-15,unarmed,Prescott,AZ,,,female,
+2022-12-17,unarmed,Tulare County,CA,Victor Melendez,33,male,
+2023-01-11,unarmed,Joshua Tree,CA,Samuel Arredondo,,male,
+2023-03-10,unarmed,Kailua-Kona,HI,Kainoa Kahele-Bishop,32,male,
+2023-04-24,unarmed,Lumberton,NC,Karl Jones,31,male,
+2023-05-18,unarmed,,MS,Cody Mercer,30,male,
+2023-05-20,unarmed,Fountain,CO,James Boyle,51,male,
+2023-06-28,unarmed,Cantonment,FL,Charles Vincent Todd Jr.,,male,
+2023-08-08,unarmed,West Hartford,CT,Mike Alexander-Garcia,34,male,
+2023-10-11,unarmed,Radnor Township,PA,,28,female,
+2024-06-08,unarmed,Prescott,AZ,Daniel Leslie,34,male,
+2024-10-12,unarmed,Maize,KS,Jonathan Macias,27,male,
+2024-11-07,unarmed,Independence,MO,Destinii Hope,0,female,
+2024-12-24,unarmed,Fresno,CA,Jeremy Raul Sanchez,26,male,
+2015-01-06,unarmed,Burlington,IA,Autumn Steele,34,female,W
+2015-01-29,unarmed,Stillwater,OK,Ralph Willis,42,male,W
+2015-02-02,unarmed,Hummelstown,PA,David Kassick,59,male,W
+2015-02-17,unarmed,Springfield,MO,Michael Ireland,31,male,W
+2015-02-23,unarmed,Omaha,NE,Daniel Elrod,39,male,W
+2015-02-26,unarmed,Terre Haute,IN,Alexander Phillip Long,31,male,W
+2015-02-26,unarmed,Gulfport,MS,Rodney Biggs,49,male,W
+2015-02-28,unarmed,Roxand Township,MI,Deven Guilford,17,male,W
+2015-03-04,unarmed,Deltona,FL,Derek Cruice,26,male,W
+2015-03-19,unarmed,Sumas,WA,Jamison Childress,20,male,W
+2015-04-26,unarmed,Bunch,OK,Billy Joe Patrick,29,male,W
+2015-05-30,unarmed,Cottonwood,AZ,Ebin Lamont Proctor,19,male,W
+2015-06-09,unarmed,Findlay,OH,Jeremy Linhart,30,male,W
+2015-06-09,unarmed,Des Moines,IA,Ryan Bolinger,28,male,W
+2015-06-23,unarmed,Indianapolis,IN,Joshua Dyer,34,male,W
+2015-07-05,unarmed,Pleasanton,CA,John Deming Jr.,19,male,W
+2015-07-21,unarmed,White,GA,Darren Billy Wilson,47,male,W
+2015-07-23,unarmed,Plymouth,MN,Derek Wolfsteller,31,male,W
+2015-08-15,unarmed,Hanover,IN,John Unsworth,43,male,W
+2015-08-20,unarmed,Tuscaloosa,AL,Jeffory Ray Tevis,50,male,W
+2015-09-14,unarmed,Barstow,CA,David Todd Powell,28,male,W
+2015-09-21,unarmed,Paris,TX,Garrett Steven McKinney,21,male,W
+2015-09-25,unarmed,Akron,OH,William Lemmon,21,male,W
+2015-09-29,unarmed,Mora,MN,Robert Christen,37,male,W
+2015-10-02,unarmed,Amarillo,TX,Matthew Dobbins,29,male,W
+2015-11-03,unarmed,Marksville,LA,Jeremy Mardis,6,male,W
+2015-11-04,unarmed,Pacific Beach,CA,Timothy Gene Smith,47,male,W
+2015-11-17,unarmed,Arlington,GA,Derry Touchstone,58,male,W
+2015-11-21,unarmed,Colbert,OK,Chris Nichols,24,male,W
+2015-11-26,unarmed,Chico,CA,Andrew Thomas,26,male,W
+2015-12-11,unarmed,Tucson,AZ,Steven Wickert,36,male,W
+2016-01-11,unarmed,Penn Township,PA,Ciara Meyer,12,female,W
+2016-01-16,unarmed,El Cajon,CA,Kelsey Rose Hauser,25,female,W
+2016-01-17,unarmed,Mesa,AZ,Daniel Shaver,26,male,W
+2016-01-31,unarmed,Saginaw,TX,Michael Brown,25,male,W
+2016-02-26,unarmed,Rapid Valley,SD,Abraham Mitchell Fryer,35,male,W
+2016-03-02,unarmed,Bel Air,MD,Travis Boyd Bradley,36,male,W
+2016-03-04,unarmed,East Bernstadt,KY,Brandon Stanley,30,male,W
+2016-03-06,unarmed,Bismarck,ND,James Scott,42,male,W
+2016-03-13,unarmed,Lenoir City,TN,Joshua Grubb,30,male,W
+2016-04-03,unarmed,Raceland,LA,Preston Paul Perez Sr.,48,male,W
+2016-04-12,unarmed,Denver,CO,Dion Daman,40,male,W
+2016-04-14,unarmed,McPherson,KS,Jeff Robertson,54,male,W
+2016-04-17,unarmed,El Paso,TX,Eric John Wilson,22,male,W
+2016-05-09,unarmed,St. Martin,MS,Christian Bowman,23,male,W
+2016-05-21,unarmed,Oregon City,OR,Travis Moore,38,male,W
+2016-05-29,unarmed,Stoneville,NC,Todd Brent Burroughs,38,male,W
+2016-06-07,unarmed,Wagoner,OK,Andrew Henson,25,male,W
+2016-06-25,unarmed,Fresno,CA,Dylan Noble,19,male,W
+2016-06-29,unarmed,Barbourville,KY,Jessie J. Mills,30,male,W
+2016-08-02,unarmed,Castaic,CA,William Bowers,51,male,W
+2016-08-18,unarmed,Charlotte,NC,Daniel Kevin Harris,29,male,W
+2016-08-30,unarmed,Harker Heights,TX,Lyle Patrick Blanchard,59,male,W
+2016-09-21,unarmed,Louisville,NE,Austin M. Baier,23,male,W
+2016-09-23,unarmed,Fair Oaks,CA,Jesse Ataway,41,male,W
+2016-10-26,unarmed,Bartlesville,OK,William Clifford Cole,36,male,W
+2016-11-08,unarmed,Hays,KS,Kenton Kobza,19,male,W
+2016-11-29,unarmed,Lynn,MA,Michael McInnis,41,male,W
+2016-11-29,unarmed,Iva,SC,Alexander Chance Partain,31,male,W
+2016-12-31,unarmed,Mankato,MN,Chase Anthony Tuseth,33,male,W
+2017-01-07,unarmed,Elkridge,MD,William Tucker Mathis,41,male,W
+2017-01-18,unarmed,Dallas,TX,Genevive Dawes,21,female,W
+2017-01-23,unarmed,Springfield,IL,Daniel D. Rogers,27,male,W
+2017-01-24,unarmed,Sugar Creek,MO,Dakota A. Lukecart,22,male,W
+2017-01-24,unarmed,Algoma Township,MI,Jonathan David Sper,30,male,W
+2017-02-09,unarmed,Geneva Township,OH,Vincent Palma,26,male,W
+2017-02-10,unarmed,Vassalboro,ME,Ambroshia Fagre,18,female,W
+2017-02-17,unarmed,Grand Prarie,TX,Joshua Henry,30,male,W
+2017-02-20,unarmed,St. Joseph,MO,Jason Fanning,27,male,W
+2017-03-14,unarmed,Toms River,NJ,Christopher Apostolos,56,male,W
+2017-03-26,unarmed,Delray Beach,FL,David Eric Ufferman,56,male,W
+2017-04-20,unarmed,Glendale,AZ,Sariah Marie Lane,17,female,W
+2017-05-09,unarmed,Lexington,SC,John Bittle,39,male,W
+2017-05-12,unarmed,Baldwin County,AL,Jonathan David Victor,35,male,W
+2017-05-24,unarmed,Canton,OH,Hayden J. Stutz,24,male,W
+2017-06-16,unarmed,Water Valley,MS,Jamie Dougan,24,female,W
+2017-06-30,unarmed,Loveland,CO,Chet Knuppel,23,male,W
+2017-07-15,unarmed,Minneapolis,MN,Justine Damond,40,female,W
+2017-08-07,unarmed,Blue Summit,MO,Christopher K. Sales,36,male,W
+2017-09-03,unarmed,Akron,OH,William Porubsky,30,male,W
+2017-09-06,unarmed,Los Angeles,CA,Timothy Elam,42,male,W
+2017-10-01,unarmed,Seward,AK,Micah McComas,41,male,W
+2017-10-05,unarmed,Hiram,GA,Brandon Lee Bohanon,35,male,W
+2017-10-24,unarmed,Plymouth Township,PA,Sean Bohinski,37,male,W
+2017-11-09,unarmed,Flatwoods,KY,Ashley Jenkins,23,female,W
+2017-11-17,unarmed,Albuquerque,NM,Martin Jim,25,male,W
+2017-11-17,unarmed,Fairfax,VA,Bijan C. Ghaisar,25,male,W
+2017-12-21,unarmed,Schertz,TX,Kameron Christopher Prescott,6,male,W
+2017-12-27,unarmed,Wichita,KS,Andrew Finch,28,male,W
+2018-01-07,unarmed,Sedona,AZ,Tyler Miller,51,male,W
+2018-01-16,unarmed,Adams County,CO,Bailey Turner,27,male,W
+2018-01-17,unarmed,Franklin County,OH,Joseph Edward Haynes,16,male,W
+2018-01-22,unarmed,Sallisaw,OK,Jonathan Duane Atchley,37,male,W
+2018-01-30,unarmed,Pink,OK,Ricky Leon Rusche,40,male,W
+2018-02-01,unarmed,Waverly,OH,James M. Burks,35,male,W
+2018-02-03,unarmed,Reading,MA,Alan Greenough,43,male,W
+2018-02-06,unarmed,St. Augustine,FL,James Benny Hobbs,59,male,W
+2018-03-07,unarmed,Bexar County,TX,Amelia Huron-Macias,84,female,W
+2018-03-24,unarmed,Nikolaevsk,AK,Nikolai Yakunin,42,male,W
+2018-03-27,unarmed,Midway,FL,Isaac Michael Scroggie,24,male,W
+2018-04-29,unarmed,Shreveport,LA,Brandon Busher,38,male,W
+2018-05-14,unarmed,Royal Oak,MI,Cody Reynolds,20,male,W
+2018-05-24,unarmed,Citra,FL,Dustin D. Odom,30,male,W
+2018-05-24,unarmed,Cleveland,OH,Brett Luengo,33,male,W
+2018-06-08,unarmed,Madison County,MS,Michael Renfroe,36,male,W
+2018-06-12,unarmed,Phoenix,AZ,Alexandre J. Aldrich,34,male,W
+2018-06-15,unarmed,Nokomis,IL,David L. Hicks,40,male,W
+2018-07-05,unarmed,Devil's Lake,ND,Daniel A. Fuller,26,male,W
+2018-07-07,unarmed,Amity,OR,Kelly Kenneth Sutton,27,male,W
+2018-07-25,unarmed,Lake Havasu,AZ,Brent C. Bowdon,56,male,W
+2018-10-01,unarmed,Orlando,FL,Brian Baker,33,male,W
+2018-10-23,unarmed,Alderwood Manor,WA,Nickolas Michael Peters,24,male,W
+2018-11-09,unarmed,Salt Lake City,UT,Cody Paris Belgard,30,male,W
+2018-11-11,unarmed,Wagoner,OK,Elisha Edward Kelley,52,male,W
+2018-11-21,unarmed,Pasadena,TX,Nathan Alexander Schenk,34,male,W
+2019-01-16,unarmed,Fort Lupton,CO,Shawn Joseph Billinger,46,male,W
+2019-01-19,unarmed,St. Louis Park,MN,Matthew Neil Tuhkanen,35,male,W
+2019-01-23,unarmed,Flagstaff,AZ,Preston Oszust,20,male,W
+2019-01-24,unarmed,St. Louis,MO,Katlyn Alix,24,female,W
+2019-01-28,unarmed,Houston,TX,Rhogena Nicholas,58,female,W
+2019-02-07,unarmed,Snyder,TX,Morgan Shane West,38,male,W
+2019-02-08,unarmed,Bakersfield,CA,Aaron Allen Przekop,25,male,W
+2019-02-11,unarmed,Montgomery,WV,Eric Young,34,male,W
+2019-03-02,unarmed,Fairchild,WI,Tyler J. Meier,46,male,W
+2019-03-30,unarmed,Watauga County,NC,Andrew John Mason,22,male,W
+2019-04-02,unarmed,Redding,CA,Donnell James Lang,48,male,W
+2019-04-04,unarmed,Kalamazoo,MI,Thomas Verile Jr.,37,male,W
+2019-05-02,unarmed,Glenwood,GA,David Wayne West,52,male,W
+2019-05-04,unarmed,Spokane,WA,Ethan Austin Murray,25,male,W
+2019-05-23,unarmed,Montgomery,NY,Luke H. Patterson,41,male,W
+2019-06-03,unarmed,Detroit,MI,Kevin Pudlik,41,male,W
+2019-07-05,unarmed,Oak View,CA,Joshua Ortiz,21,male,W
+2019-08-01,unarmed,Arlington,TX,Margarita Victoria Brooks,30,female,W
+2019-08-13,unarmed,Joplin,MO,David Ingle,31,male,W
+2019-08-22,unarmed,Glennville,GA,Riley Eugene Peay,39,male,W
+2019-08-23,unarmed,West Valley City,UT,Chad Michael Breinholt,31,male,W
+2019-09-05,unarmed,East Hartford,CT,John Carras,43,male,W
+2019-09-29,unarmed,Longview,TX,Dewayne Morgan,37,male,W
+2019-10-15,unarmed,Hope Ranch,CA,Cameron Ely,30,male,W
+2019-11-16,unarmed,Alliance,OH,Robert Sikon III,41,male,W
+2019-12-11,unarmed,League City,TX,Matthew Jonathan Krupar,31,male,W
+2020-02-24,unarmed,Floresville,TX,Stephen O'Brien,20,male,W
+2020-03-04,unarmed,Manila,AR,Christopher Palmer,37,male,W
+2020-03-06,unarmed,Edison,CA,Kenneth Mullins,32,male,W
+2020-03-08,unarmed,Humble,TX,Brian Marksberry,31,male,W
+2020-03-08,unarmed,Wasilla,AK,Aaron Tolen,37,male,W
+2020-03-26,unarmed,Linwood,NC,John Mark Hendrick Jr.,32,male,W
+2020-04-09,unarmed,Brandon,CO,Zachary Shane Gifford,39,male,W
+2020-04-10,unarmed,Philadelphia,PA,Giuseppe Particianone,33,male,W
+2020-04-19,unarmed,Lancaster,CA,Richard Sean Lugo Jr.,36,male,W
+2020-05-01,unarmed,San Diego,CA,Nicholas Bils,36,male,W
+2020-05-19,unarmed,Sale Creek,TN,Tyler Hays,29,male,W
+2020-05-26,unarmed,Jacksonville,FL,John Allen Dunaway III,61,male,W
+2020-05-27,unarmed,Luverne,AL,Channing Lamar Spivey,34,male,W
+2020-06-13,unarmed,Sedalia,MO,Hannah R. Fizer,25,female,W
+2020-08-04,unarmed,Port Orchard,WA,David James Pruitte,36,male,W
+2020-08-07,unarmed,St. Petersburg,FL,Jeffrey Scott Haarsma,55,male,W
+2020-09-19,unarmed,Auburn,WA,Josh Sarrett,32,male,W
+2020-10-09,unarmed,Pine County,MN,Anthony Michael Legato,25,male,W
+2020-10-17,unarmed,Wood County,WV,Paul Matthew Bailey,21,male,W
+2020-10-19,unarmed,Thornton,NH,Ethan Freeman,37,male,W
+2020-10-30,unarmed,El Paso,TX,Frank Murphy Jr.,43,male,W
+2020-10-31,unarmed,Denver,CO,John Pacheaco Jr.,36,male,W
+2020-11-20,unarmed,Upper Darby,PA,Jeffrey Laudermilt,37,male,W
+2020-12-08,unarmed,Riverview,FL,Dylan Ray Scott,27,male,W
+2020-12-20,unarmed,Anchorage,AK,William A. Riley-Jennings,34,male,W
+2020-12-28,unarmed,Phoenix,AZ,Jordan Crawford,30,male,W
+2020-12-29,unarmed,Modesto,CA,Trevor Seever,29,male,W
+2021-01-06,unarmed,Washington,DC,Ashli Babbitt,35,female,W
+2021-02-01,unarmed,Caroline County,VA,Richard F. Thomas,58,male,W
+2021-02-18,unarmed,Athens,GA,Timothy Daniel Statham,37,male,W
+2021-02-19,unarmed,Yreka,CA,Chad Curtis Loynachan,29,male,W
+2021-04-24,unarmed,Los Angeles,CA,Richard Solitro,34,male,W
+2021-05-23,unarmed,Williams Township,PA,Edward James Shadder,55,male,W
+2021-06-21,unarmed,Heath Township,MI,Virgil-Lee Taylor,31,male,W
+2022-01-25,unarmed,Dandridge,TN,Floyd Michael Woody,68,male,W
+2022-02-04,unarmed,Prineville,OR,Nicholas Rodin,35,male,W
+2022-02-16,unarmed,Marrero,LA,Daniel Vallee,34,male,W
+2022-02-22,unarmed,Pueblo West,CO,Richard Ward,32,male,W
+2022-03-06,unarmed,Peoria,AZ,Jerry William Lott,33,male,W
+2022-03-26,unarmed,Baxter Springs,KS,Clesslynn Jane Crawford,2,female,W
+2022-04-05,unarmed,Killeen,TX,Ralph Sebexen,27,male,W
+2022-04-21,unarmed,Mott,ND,Jeffrie Glover Jr.,34,male,W
+2022-04-30,unarmed,Beatrice,NE,Bradley Allen,35,male,W
+2022-05-21,unarmed,Aiken County,SC,Arthur C. Page II,58,male,W
+2022-05-25,unarmed,Myrtle Creek,OR,Spencer Cassanova Heckathorne,60,male,W
+2022-06-16,unarmed,Monterey Township,MI,Joseph Maverick Nagle,22,male,W
+2022-06-21,unarmed,Adelanto,CA,Shane Earl Holland,35,male,W
+2022-07-15,unarmed,Anaheim,CA,Trent William Millsap,27,male,W
+2022-07-22,unarmed,Moreno Valley,CA,Jay Jackson,49,male,W
+2022-07-24,unarmed,Englewood,CO,Matthew Neal Mitchell,22,male,W
+2022-09-07,unarmed,North Waterboro,ME,Tyler Woodburn,30,male,W
+2022-09-14,unarmed,Rusk County,TX,Timothy Michael Randall,29,male,W
+2022-09-24,unarmed,Ozark,MO,Donna M. Bailey,23,female,W
+2022-09-26,unarmed,Hesperia,CA,Savannah Graziano,15,female,W
+2022-10-05,unarmed,Claremore,OK,Bobby Joe Johnston,40,male,W
+2022-12-10,unarmed,Brookings,OR,Justin Ray Ruddell,41,male,W
+2022-12-22,unarmed,Quitman,TX,Robert Allen Vancleave,55,male,W
+2023-01-11,unarmed,Valencia,CA,Christopher Lee Mercurio,50,male,W
+2023-01-13,unarmed,Lake Stevens,WA,James Blancocotto,30,male,W
+2023-01-18,unarmed,Liberty Hill,TX,Jackson Lieber,21,male,W
+2023-01-24,unarmed,Sugar Valley,GA,Billy Dewayne Couch,51,male,W
+2023-01-31,unarmed,Jackson,OH,William E. Beach Jr.,31,male,W
+2023-01-31,unarmed,White Marsh,MD,Brian Roger McCourry Jr.,37,male,W
+2023-02-09,unarmed,Redding,CA,David Lawrence Couch III,31,male,W
+2023-02-10,unarmed,La Habra,CA,Austin Heiselman,48,male,W
+2023-03-12,unarmed,Big Bear,CA,Kyle Nicholas Sostek,34,male,W
+2023-03-26,unarmed,Sandy,UT,Dylan William Murphy,33,male,W
+2023-05-03,unarmed,La Salle,CO,Juston Michael Reffel,38,male,W
+2023-05-28,unarmed,Kennett,MO,James Matthew Hooten,46,male,W
+2023-06-30,unarmed,Clifton Forge,VA,Leonidas R. Tamanini,38,male,W
+2023-08-05,unarmed,Rowsburg,OH,Larry Dunham,63,male,W
+2023-11-16,unarmed,,AR,Jeremy Dale Adams,39,male,W
+2023-12-06,unarmed,Reno,NV,Caleb Briggs,34,male,W
+2023-12-12,unarmed,,TX,Kevin Ray Mills,53,male,W
+2023-12-25,unarmed,Mount Shasta,CA,Nicholas Detweiler Haritoudis,32,male,W
+2024-03-15,unarmed,Davie,FL,Steven Amann,39,male,W
+2024-04-09,unarmed,Waukesha,WI,Christopher M. Milakovich,50,male,W
+2024-06-06,unarmed,Casper,WY,Trae Stewart Spurlock,26,male,W
+2024-06-30,unarmed,Crookston,MN,Christopher Ryan Junkin,44,male,W
+2024-08-29,unarmed,Coffeyville,KS,Derik J. Trotter,33,male,W
+2024-09-04,unarmed,Orangefield,TX,Coby Lynn Granger,39,male,W
+2015-04-30,unarmed,San Diego,CA,Fridoon Zalbeg Nehad,42,male,O
+2015-05-27,unarmed,Long Beach,CA,Feras Morad,20,male,O
+2015-10-05,unarmed,Akron,OH,Omar Ali,27,male,O
+2015-10-26,unarmed,Tampa,FL,Kobvey Igbuhay,18,male,O
+2017-07-19,unarmed,Saginaw,MI,Farhad Jabbari,38,male,O
+2015-04-21,unarmed,Lakewood,WA,Daniel Covarrubias,37,male,N
+2016-09-16,unarmed,Winooski,VT,Jesse Beshaw,29,male,N
+2017-10-22,unarmed,Crandon,WI,Dexter David Anthony Baxter,30,male,N
+2017-12-07,unarmed,Denver,CO,Kyler Grabbingbear,19,male,N
+2019-06-01,unarmed,Bartlesville,OK,Thomas Goodeyes Gay,35,male,N
+2020-12-15,unarmed,Glenpool,OK,Julian Avell Rose Cole,28,male,N
+2022-03-19,unarmed,Albuquerque,NM,Collin Neztsosie,33,male,N
+2022-07-08,unarmed,Fargo,ND,Shane Netterville,28,male,N
+2023-05-18,unarmed,Tohono O'odham Nation Reservation,AZ,Raymond Mattia,58,male,N
+2023-09-17,unarmed,Hoopa,CA,William Burrell Nelson,43,male,N
+2015-01-03,unarmed,Wichita,KS,John Paul Quintero,23,male,H
+2015-01-26,unarmed,Tahoka,TX,Joshua Omar Garcia,24,male,H
+2015-02-04,unarmed,Tempe,AZ,Joaquin Hernandez,28,male,H
+2015-02-10,unarmed,Pasco,WA,Antonio Zambrano-Montes,35,male,H
+2015-02-13,unarmed,Reading,PA,Richard Carlin,35,male,H
+2015-02-20,unarmed,Euless,TX,Ruben Villalpando,31,male,H
+2015-02-27,unarmed,Santa Ana,CA,Ernesto Javiar Canepa Diaz,27,male,H
+2015-03-05,unarmed,Burbank,CA,Sergio Alexander Navas,36,male,H
+2015-03-13,unarmed,Walnut Creek,CA,Antonio Perez,32,male,H
+2015-03-17,unarmed,Sacramento,CA,Roberto Leon,22,male,H
+2015-04-23,unarmed,Long Beach,CA,Hector Morejon,19,male,H
+2015-05-19,unarmed,Arlington,VA,Alfredo Rials-Torres,54,male,H
+2015-06-03,unarmed,Los Lunas,NM,Rudy Baca,36,male,H
+2015-06-21,unarmed,Azusa,CA,Adrian Simental,24,male,H
+2015-07-05,unarmed,Hawaiian Gardens,CA,Johnny Ray Anderson,43,male,H
+2015-08-17,unarmed,San Jose,CA,Richard Jacquez,40,male,H
+2015-08-29,unarmed,Chicago,IL,Rafael Cruz Jr,29,male,H
+2015-09-03,unarmed,Fresno,CA,Freddy Centeno,40,male,H
+2015-10-16,unarmed,Valinda,CA,Johnny Angel Rangel,27,male,H
+2015-10-21,unarmed,West Goshen,CA,Ryan Christopher Rodriguez,21,male,H
+2015-12-14,unarmed,Gilroy,CA,Hector Alvarez,19,male,H
+2016-02-09,unarmed,Anaheim,CA,Gustavo Najera,22,male,H
+2016-03-13,unarmed,Addison,TX,Jose Raul Cruz,16,male,H
+2016-03-16,unarmed,Florence,CA,Cristian Rene Medina,23,male,H
+2016-05-19,unarmed,Las Vegas,NV,Jeremias Cruz,30,male,H
+2016-06-25,unarmed,Gainesville,GA,Rodrigo Guardiola,36,male,H
+2016-08-16,unarmed,Tucson,AZ,Marcos Antonio Gastelum,25,male,H
+2016-09-12,unarmed,Colton,CA,Christian Vargas,25,male,H
+2016-10-10,unarmed,Irvine,CA,Maurico Barron,27,male,H
+2016-11-04,unarmed,Palm Springs,CA,Abraham Ortiz,26,male,H
+2016-11-06,unarmed,Santa Ana,CA,David Contreras Jr.,33,male,H
+2016-11-19,unarmed,Anaheim,CA,Adalid Flores,29,male,H
+2016-11-25,unarmed,Tucson,AZ,Carlos Valencia,26,male,H
+2016-12-12,unarmed,Bakersfield,CA,Francisco Serna,73,male,H
+2017-01-24,unarmed,Kuna,ID,Ramon Milanez,32,male,H
+2017-01-29,unarmed,Santa Ana,CA,Steve Salgado,18,male,H
+2017-02-04,unarmed,Moultrie,GA,Peter Torres,23,male,H
+2017-03-14,unarmed,Hayward,CA,"Elena ""Ebbie"" Mondragon",16,female,H
+2017-04-04,unarmed,Bakersfield,CA,Rogelio Vidal Landa,47,male,H
+2017-04-15,unarmed,Fresno,CA,Isaiah Murrietta-Golding,16,male,H
+2017-05-21,unarmed,Orlando,FL,Carlos Garcia Petrovich,37,male,H
+2017-05-26,unarmed,San Rafael,NM,Hector Gamboa,59,male,H
+2017-06-22,unarmed,Palmdale,CA,Armando Garcia-Muro,17,male,H
+2017-07-05,unarmed,Vista,CA,Jonathan Coronel,24,male,H
+2017-09-15,unarmed,San Jose,CA,Jacob Dominguez,32,male,H
+2017-10-11,unarmed,Valdez,CO,Kristian Martinez,44,male,H
+2017-10-22,unarmed,Ceres,CA,Nicholas Pimentel,27,male,H
+2017-11-17,unarmed,Albuquerque,NM,Isaac Padilla,23,male,H
+2018-01-25,unarmed,Houston,TX,Ulises Valladares,47,male,H
+2018-05-23,unarmed,Rio Bravo,TX,Claudia Patricia Gomez Gonzalez,20,female,H
+2018-06-01,unarmed,Dundee,FL,Andres Estrada,21,male,H
+2018-06-03,unarmed,Chickasha,OK,Julio Eduardo Hernandez Mata,32,male,H
+2018-06-16,unarmed,Albuquerque,NM,Richard Rivera,47,male,H
+2018-07-21,unarmed,Los Angeles,CA,Melyda Marciela Corado,27,female,H
+2018-07-28,unarmed,South Whitehall Township,PA,Joseph Santos,44,male,H
+2018-09-19,unarmed,Los Angeles,CA,Fernando Cruz,18,male,H
+2018-11-04,unarmed,Laramie,WY,Robbie Ramirez,39,male,H
+2019-01-13,unarmed,Calabasas,CA,Dimas Diaz Jr.,38,male,H
+2019-01-14,unarmed,Pueblo,CO,Amiliano Antonio Apodaca,18,male,H
+2019-01-21,unarmed,Las Vegas,NV,Horacio Ruiz-Rodriguez,37,male,H
+2019-01-24,unarmed,Ehrenberg,AZ,Christian Albarran,26,male,H
+2019-03-01,unarmed,Fairfield,TX,Eduardo Munoz,29,male,H
+2019-03-05,unarmed,Bakersfield,CA,Stephanie Areanda Quiroz,21,female,H
+2019-03-13,unarmed,Phoenix,AZ,Henry Wayne Rivera,30,male,H
+2019-06-12,unarmed,Farmers Branch,TX,Juan Manuel Moreno Jr.,35,male,H
+2019-06-27,unarmed,Los Angeles,CA,Paul David Rea,18,male,H
+2019-07-13,unarmed,Kirkland,WA,Derek Antonio-Sanchez,35,male,H
+2019-11-30,unarmed,Eugene,OR,Eliborio Rodriguez,40,male,H
+2020-03-10,unarmed,Bell Gardens,CA,Pablo Elias,44,male,H
+2020-03-13,unarmed,Claremore,OK,Jorge Martinez,30,male,H
+2020-04-02,unarmed,Manchester,CT,Jose Soto,27,male,H
+2020-04-24,unarmed,Austin,TX,Michael Ramos,42,male,H
+2020-09-25,unarmed,Tempe,AZ,Angel Benitez,21,male,H
+2020-10-05,unarmed,Napa,CA,Juan Adrian Garcia,47,male,H
+2020-10-20,unarmed,Phoenix,AZ,Emmett Cocreham,44,male,H
+2020-10-23,unarmed,San Ysidro,CA,David Angel Villalobos-Baldovinos,30,male,H
+2020-11-23,unarmed,Oklahoma City,OK,Stavian Rodriguez,15,male,H
+2020-12-09,unarmed,Brewster County,TX,Evatt Hernandez,27,female,H
+2021-01-11,unarmed,Edinburg,TX,Jesse Daniel Davila,29,male,H
+2021-01-21,unarmed,San Jose,CA,David Tovar Jr.,27,male,H
+2021-03-21,unarmed,Sylvania Township,OH,Eduardo Parra,24,male,H
+2021-07-26,unarmed,San Antonio,TX,Neida Guadalupe Tijerina,29,female,H
+2021-08-09,unarmed,Tustin,CA,Luis Manuel Garcia,39,male,H
+2021-08-22,unarmed,Guadalupe,CA,Juan Luis Olvera-Preciado,59,male,H
+2021-09-27,unarmed,Long Beach,CA,Manuela Rodriguez,18,female,H
+2021-10-05,unarmed,Corpus Christi,TX,Daniel Garcia,43,male,H
+2021-12-07,unarmed,Albuquerque,NM,Mario Armando Diaz,41,male,H
+2021-12-23,unarmed,Los Angeles,CA,Valentina Orellana-Peralta,14,female,H
+2022-01-05,unarmed,Victoria,TX,JD Javier Lane,28,male,H
+2022-02-25,unarmed,Belen,NM,Raphael Marquez,31,male,H
+2022-05-04,unarmed,Paramount,CA,John Alaniz,34,male,H
+2022-05-19,unarmed,San Francisco,CA,Rafael Mendoza,49,male,H
+2022-09-15,unarmed,Kingman,AZ,Marcus Adam Fuentes,36,male,H
+2022-09-27,unarmed,Edinburg,TX,Lee Roy Villarreal,36,male,H
+2022-12-08,unarmed,Baton Rouge,LA,Jose Reza-Navarro,52,male,H
+2022-12-18,unarmed,Culver City,CA,Guillermo DeJesus Medina,39,male,H
+2023-04-05,unarmed,Vernon,CA,Victor Eduardo Nava,24,male,H
+2023-04-29,unarmed,,CA,Jesus Guzman Jr.,,male,H
+2023-05-03,unarmed,Houston,TX,Edgar De Leon,46,male,H
+2023-07-03,unarmed,Orlando,FL,Derek Diaz,26,male,H
+2023-07-03,unarmed,San Leandro,CA,Juan Diego Bernal Yuriar,20,male,H
+2023-07-09,unarmed,Amarillo,TX,Isidra Clara Castillo,38,female,H
+2023-10-03,unarmed,Las Cruces,NM,Teresa Gomez,45,female,H
+2024-01-01,unarmed,Spartanburg,SC,Victor Figueroa Roblero,48,male,H
+2024-03-19,unarmed,Albuquerque,NM,Mariah Voigt,33,female,H
+2024-03-30,unarmed,Homestead,FL,Leandro Francisco Ledea Chong,34,male,H
+2024-06-10,unarmed,Clayton,NC,Jose Luis Rincon Lopez,24,male,H
+2024-08-22,unarmed,Mustang,OK,Juan Antonio Barbosa,41,male,H
+2024-09-14,unarmed,San Antonio,TX,Joseph Garcia,22,male,H
+2024-09-20,unarmed,Dalton,GA,Alicio Mayorga-Rangel,32,male,H
+2024-12-11,unarmed,Magnolia,TX,Roberto Perez,32,male,H
+2015-01-08,unarmed,Strong,AR,Artago Damon Howard,36,male,B
+2015-02-04,unarmed,Tallahassee,FL,Jeremy Lett,28,male,B
+2015-02-15,unarmed,Miami Gardens,FL,Lavall Hall,25,male,B
+2015-02-28,unarmed,St Louis,MO,Thomas Allen Jr.,34,male,B
+2015-03-01,unarmed,Los Angeles,CA,Charly Leundeu Keunang,43,male,B
+2015-03-06,unarmed,Madison,WI,Tony Robinson,19,male,B
+2015-03-06,unarmed,Aurora,CO,Naeschylus Vinzant,37,male,B
+2015-03-09,unarmed,Atlanta,GA,Anthony Hill,27,male,B
+2015-03-12,unarmed,Washington,DC,Bobby Gross,35,male,B
+2015-03-19,unarmed,Cleveland,OH,Brandon Jones,18,male,B
+2015-04-02,unarmed,Tulsa,OK,Eric Harris,44,male,B
+2015-04-04,unarmed,North Charleston,SC,Walter Scott,50,male,B
+2015-04-15,unarmed,Houston,TX,Frank Shephard,41,male,B
+2015-04-22,unarmed,Portsmouth,VA,William Chapman II,18,male,B
+2015-04-25,unarmed,New York,NY,David Felix,24,male,B
+2015-05-05,unarmed,Venice,CA,Brendon Glenn,29,male,B
+2015-06-15,unarmed,South Lake Tahoe,CA,Kris Jackson,22,male,B
+2015-06-25,unarmed,Owings Mills,MD,Spencer McCain,41,male,B
+2015-07-02,unarmed,Jacksonville,FL,Victor Emanuel Larosa,23,male,B
+2015-07-12,unarmed,Plantation,FL,Salvado Ellswood,36,male,B
+2015-07-17,unarmed,Orlando,FL,Albert Joseph Davis,23,male,B
+2015-07-17,unarmed,Memphis,TN,Darrius Stewart,19,male,B
+2015-07-19,unarmed,Mt. Auburn,OH,Samuel DuBose,43,male,B
+2015-08-07,unarmed,Arlington,TX,Christian James Taylor,19,male,B
+2015-08-14,unarmed,District Heights,MD,Asshams Pharoah Manley,30,male,B
+2015-08-28,unarmed,Mount Vernon,NY,Felix Kumi,61,male,B
+2015-09-05,unarmed,Virginia Beach,VA,India Kager,27,female,B
+2015-09-23,unarmed,Reisterstown,MD,Keith Harrison McLeod,19,male,B
+2015-09-28,unarmed,Miami,FL,Junior Prosper,31,male,B
+2015-10-28,unarmed,Point Loma,CA,Anthony Ashford,29,male,B
+2015-11-15,unarmed,Minneapolis,MN,Jamar Clark,24,male,B
+2015-11-20,unarmed,Barstow,CA,Nathaniel Harris Pickett,29,male,B
+2015-12-08,unarmed,Yonkers,NY,Miguel Espinal,36,male,B
+2015-12-21,unarmed,Breaux Bridge,LA,Michael Noel,,male,B
+2015-12-23,unarmed,Dearborn,MI,Kevin Matthews,35,male,B
+2015-12-26,unarmed,Chicago,IL,Bettie Jones,55,female,B
+2015-12-31,unarmed,Las Vegas,NV,Keith Childress Jr.,23,male,B
+2016-02-04,unarmed,San Antonio,TX,Antronie Scott,36,male,B
+2016-02-08,unarmed,Austin,TX,David Joseph,17,male,B
+2016-02-13,unarmed,Beckville,TX,Calin Roquemore,24,male,B
+2016-02-13,unarmed,Arvonia,VA,Dyzhawn L. Perkins,19,male,B
+2016-02-24,unarmed,East Troy,WI,Christopher J. Davis,21,male,B
+2016-03-12,unarmed,Houston,TX,Peter Gaines,37,male,B
+2016-04-05,unarmed,Indianapolis,IN,Kevin Hicks,44,male,B
+2016-05-19,unarmed,San Francisco,CA,Jessica Nelson-Williams,29,female,B
+2016-05-22,unarmed,Hallandale Beach,FL,Michael Eugene Wilson Jr.,27,male,B
+2016-05-22,unarmed,Jacksonville,FL,Vernell Bing Jr.,22,male,B
+2016-06-18,unarmed,Tupelo,MS,Antwun Shumpert,37,male,B
+2016-06-22,unarmed,Atlanta,GA,Deravis Caine Rogers,22,male,B
+2016-07-27,unarmed,Tempe,AZ,Dalvin Hollins,19,male,B
+2016-07-28,unarmed,Chicago,IL,Paul O'Neal,18,male,B
+2016-07-28,unarmed,Compton,CA,Donnell Thompson Jr.,27,male,B
+2016-08-30,unarmed,Tampa,FL,Levonia Riggins,22,male,B
+2016-09-16,unarmed,Tulsa,OK,Terence Crutcher,40,male,B
+2016-09-27,unarmed,El Cajon,CA,Alfred Olango,38,male,B
+2016-09-28,unarmed,Philadelphia,PA,Christopher Sowell,32,male,B
+2016-11-11,unarmed,East Point,GA,Andrew Depeiza,30,male,B
+2017-01-09,unarmed,Phoenix,AZ,JR Williams,38,male,B
+2017-01-10,unarmed,Reagan,TN,Darrion Barnhill,23,male,B
+2017-02-05,unarmed,Fremont,CA,Nana Adomako,45,male,B
+2017-02-08,unarmed,Chicago,IL,Chad Robertson,25,male,B
+2017-02-13,unarmed,Detroit,MI,Raynard Burton,19,male,B
+2017-03-19,unarmed,Gifford,FL,Alteria Woods,21,female,B
+2017-04-29,unarmed,Balch Springs,TX,Jordan Javon Edwards,15,male,B
+2017-05-21,unarmed,Converse,LA,Ricco Devante Holden,24,male,B
+2017-06-02,unarmed,Petal,MS,Marc Brandon Davis,34,male,B
+2017-06-08,unarmed,Philadelphia,PA,David Jones,30,male,B
+2017-06-29,unarmed,Indianapolis,IN,Aaron Bailey,45,male,B
+2017-07-06,unarmed,Mamou,LA,Dejuan Guillory,27,male,B
+2017-07-07,unarmed,Marietta,GA,Brian Easley,33,male,B
+2017-07-31,unarmed,Oshkosh,WI,Isaiah Tucker,28,male,B
+2017-08-25,unarmed,Woodville,GA,Charles David Robinson,47,male,B
+2017-08-30,unarmed,Miami,FL,Anthony Antonio Ford,27,male,B
+2017-10-19,unarmed,Corpus Christi,TX,Dewboy Lister,55,male,B
+2017-11-13,unarmed,Baton Rouge,LA,Calvin Toney,24,male,B
+2017-11-18,unarmed,Prichard,AL,Lawrence Hawkins,56,male,B
+2017-12-01,unarmed,San Francisco,CA,Keita O'Neil,42,male,B
+2017-12-06,unarmed,Lauderdale Lakes,FL,Jean Pedro Pierre,42,male,B
+2018-01-06,unarmed,Los Lunas,NM,John Bailon,40,male,B
+2018-01-20,unarmed,Longview,TX,Arther McAfee Jr.,61,male,B
+2018-01-23,unarmed,Bradenton,FL,Corey Mobley,38,male,B
+2018-02-13,unarmed,Vallejo,CA,Ronnell Foster,33,male,B
+2018-02-21,unarmed,Stratford,TX,Darion Baker,22,male,B
+2018-02-23,unarmed,Woodbridge,VA,Mario Dantoni Bass,37,male,B
+2018-03-14,unarmed,East Baton Rouge,LA,Shermichael Ezeff,31,male,B
+2018-03-15,unarmed,Casa Grande,AZ,Cameron Hall,27,male,B
+2018-03-18,unarmed,Sacramento,CA,Stephon Clark,23,male,B
+2018-03-22,unarmed,Greenspoint,TX,Danny Thomas,35,male,B
+2018-04-08,unarmed,Danville,VA,Juan Markee Jones,25,male,B
+2018-04-20,unarmed,Orlando,FL,James Bauduy,48,male,B
+2018-05-14,unarmed,Richmond,VA,Marcus-David L. Peters,24,male,B
+2018-06-11,unarmed,Silver Spring,MD,Robert Lawrence White,41,male,B
+2018-06-19,unarmed,Pittsburgh,PA,Antwon Rose Jr.,17,male,B
+2018-06-20,unarmed,Kingsland,GA,Anthony Marcell Green,33,male,B
+2018-07-07,unarmed,Vineland,NJ,Rashaun Washington,37,male,B
+2018-07-27,unarmed,Savannah,GA,Cynthia Fields,60,female,B
+2018-09-05,unarmed,Hollywood,FL,James Leatherwood,23,male,B
+2018-10-17,unarmed,San Antonio,TX,Charles Roundtree,18,male,B
+2018-11-02,unarmed,Idaho Falls,ID,Jesse J. Quinton,35,male,B
+2018-12-18,unarmed,Franklin Township,PA,Danny Washington,27,male,B
+2019-01-22,unarmed,Atlanta,GA,Jimmy Atchison,21,male,B
+2019-03-24,unarmed,Baltimore,MD,Kevin Bruce Mason,57,male,B
+2019-04-07,unarmed,Blytheville,AR,Marzeus Scott,35,male,B
+2019-04-11,unarmed,Boerne,TX,Marcus McVae,34,male,B
+2019-04-29,unarmed,Edmond,OK,Isaiah Lewis,17,male,B
+2019-06-06,unarmed,Los Angeles,CA,Ryan Twyman,24,male,B
+2019-07-25,unarmed,Port Allen,LA,Josef Delon Richardson,38,male,B
+2019-09-14,unarmed,Baton Rouge,LA,Melvin Watkins,54,male,B
+2019-10-12,unarmed,Fort Worth,TX,Atatiana Jefferson,28,female,B
+2019-10-14,unarmed,Ethel,LA,Christopher Whitfield,31,male,B
+2019-12-02,unarmed,Temple,TX,Michael Dean,28,male,B
+2020-01-27,unarmed,Temple Hills,MD,William Howard Green,43,male,B
+2020-01-29,unarmed,Graham,NC,Jaquyn Oneill Light,20,male,B
+2020-03-06,unarmed,Fort Lauderdale,FL,Barry Gedeus,27,male,B
+2020-03-12,unarmed,Kansas City,MO,Donnie Sanders,47,male,B
+2020-03-13,unarmed,Louisville,KY,Breonna Taylor,26,female,B
+2020-03-20,unarmed,Tallahassee,FL,Mycael Johnson,31,male,B
+2020-04-23,unarmed,North Las Vegas,NV,Fred Brown,34,male,B
+2020-05-01,unarmed,Seattle,WA,Shaun Lee Fuhr,24,male,B
+2020-05-23,unarmed,Bass River,NJ,Maurice S. Gordon,28,male,B
+2020-05-25,unarmed,Phoenix,AZ,Dion Johnson,28,male,B
+2020-06-25,unarmed,Vinita,OK,Robert D'Lon Harris,34,male,B
+2020-08-07,unarmed,Sylvania,GA,Julian Edward Roosevelt Lewis,60,male,B
+2020-09-23,unarmed,San Clemente,CA,Kurt Andras Reinhold,42,male,B
+2020-10-02,unarmed,Mojave,CA,Mickel Erich Lewis Sr.,39,male,B
+2020-10-03,unarmed,Wolfe City,TX,Jonathan Price,32,male,B
+2020-10-12,unarmed,Bethel Springs,TN,Anthony Jones,24,male,B
+2020-10-20,unarmed,Waukegan,IL,Marcellis Stinnette,19,male,B
+2020-12-22,unarmed,Columbus,OH,Andre Maurice Hill,47,male,B
+2021-01-10,unarmed,Killeen,TX,Patrick Lynn Warren Sr.,52,male,B
+2021-02-04,unarmed,Hazel Dell,WA,Jenoah Donald,30,male,B
+2021-02-13,unarmed,Fontana,CA,Daverion Kinard,28,male,B
+2021-04-14,unarmed,Honolulu,HI,Lindani Myeni,29,male,B
+2021-04-21,unarmed,Elizabeth City,NC,Andrew Brown Jr.,42,male,B
+2021-08-24,unarmed,College Park,GA,Tory Brown,22,male,B
+2021-08-27,unarmed,Greensboro,NC,Christopher Corey Moore,41,male,B
+2021-08-27,unarmed,Sharon Hill,PA,Fanta Bility,8,female,B
+2021-10-04,unarmed,Chicago,IL,Michael Craig,61,male,B
+2021-10-18,unarmed,Washington,DC,Deandre Johnson,30,male,B
+2021-11-13,unarmed,Jackson,TN,Marcus Mann,42,male,B
+2021-12-26,unarmed,Titusville,FL,James Lowery,40,male,B
+2022-01-17,unarmed,Harris County,TX,Nathan Humphrey Jr.,28,male,B
+2022-01-30,unarmed,Crofton,MD,Dyonta Quarles Jr.,20,male,B
+2022-02-06,unarmed,Georgetown County,SC,Robert Junior Langley,46,male,B
+2022-02-19,unarmed,Winter Park,FL,Daniel Patrick Knight,39,male,B
+2022-03-08,unarmed,Miami,FL,Antwon Leonard Cooper,34,male,B
+2022-04-04,unarmed,Grand Rapids,MI,Patrick Lyoya,26,male,B
+2022-05-13,unarmed,West Palm Beach,FL,Romen Emmanuel Phelps,33,male,B
+2022-05-25,unarmed,Winn Parish,LA,Abe Banks,53,male,B
+2022-06-27,unarmed,Akron,OH,Jayland Walker,25,male,B
+2022-08-30,unarmed,Columbus,OH,Donovan Lewis,20,male,B
+2022-09-05,unarmed,Cleveland,OH,Maalik Roquemore,32,male,B
+2022-11-21,unarmed,Clayton County,GA,Eric Holmes,19,male,B
+2023-02-03,unarmed,Shreveport,LA,Alonzo Sentell Bagley,43,male,B
+2023-02-22,unarmed,Tysons,VA,Timothy McCree Johnson,37,male,B
+2023-02-24,unarmed,Wallace,NC,James Lanier,34,male,B
+2023-03-23,unarmed,,TX,Odel Hicks Jr.,51,male,B
+2023-04-11,unarmed,Houston,TX,Jamarr Van-Trell Thompson,40,male,B
+2023-06-06,unarmed,Metairie,LA,Calvin Cains III,18,male,B
+2023-06-24,unarmed,Memphis,TN,Jarveon Hudspeth,21,male,B
+2023-07-03,unarmed,Huntington,WV,Ahmad Abdullah,25,male,B
+2023-07-03,unarmed,New Rochelle,NY,Jarrell Garris,37,male,B
+2023-08-05,unarmed,Denver,CO,Brandon Cole,36,male,B
+2023-08-18,unarmed,Martinez,CA,Tahmon Kenneth Wilson,20,male,B
+2023-09-10,unarmed,Saratoga,NC,Lamoris Dejuan Speight Jr.,22,male,B
+2023-10-16,unarmed,,GA,Leonard Cure,53,male,B
+2023-11-23,unarmed,Fayetteville,NC,DeMarcus Brodie,49,male,B
+2023-12-10,unarmed,Griffin,GA,Michael Antonio Cobb Jr.,23,male,B
+2023-12-13,unarmed,Pontiac,MI,Tony Cox,33,male,B
+2024-02-02,unarmed,Lauderhill,FL,Roshod Graham,30,male,B
+2024-03-16,unarmed,Macomb,IL,Terrell Marshawn Miller,4,male,B
+2024-05-01,unarmed,St. Francisville,LA,Raymond Huddleston,46,male,B
+2024-05-14,unarmed,Pineville,NC,Dennis Bodden,46,male,B
+2024-05-23,unarmed,Aurora,CO,Kilyn Lewis,37,male,B
+2024-05-26,unarmed,Florence,SC,William Dwayne Rankin,43,male,B
+2024-07-06,unarmed,Springfield,IL,Sonya Massey,36,female,B
+2024-08-28,unarmed,Omaha,NE,Cameron Ford,37,male,B
+2024-10-23,unarmed,Punta Gorda,FL,Elroy Clarke,42,male,B
+2024-11-12,unarmed,Las Vegas,NV,Brandon Durham,43,male,B
+2024-12-28,unarmed,Lorenzo,TX,Michael McGale Phillips Jr.,27,male,B
+2016-12-04,unarmed,Hudson,OH,Saif Nasser Mubarek Alameri,26,male,A
+2017-11-15,unarmed,Oklahoma City,OK,Dustin Robert Pigeon,29,male,A
+2018-03-19,unarmed,Denver,CO,Steven Nguyen,27,male,A
+2019-02-18,unarmed,Honolulu,HI,Delmar Espejo,20,male,A
+2019-03-01,unarmed,Honolulu,HI,Maurice Arrisgado Jr.,47,male,A
+2019-05-31,unarmed,Auburn,WA,Jesse Sarey,26,male,A
+2019-07-03,unarmed,Chino,CA,Li Xi Wang,49,male,A
+2019-08-26,unarmed,Knoxville,TN,Channara Tom Pheap,33,male,A
+2020-01-10,unarmed,Spokane,WA,Clando Anitok,25,male,A
