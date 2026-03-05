@@ -1,5 +1,5 @@
 # The command line is your friend
-### Command line for reporters (Mac, Linux)
+### Introduction to the command line (OSX)
 
 Anyone can do a lot with a computer through its command line. But reporters—who spend an unnatural and likely unhealthy amount of time with their computers—there are some key commands and command line-based tools that can make life a whole lot easier. Using the command line isn't coding in the way that writing in Python or Javascript or C++ is, but mastering it is a good introduction to that world, a step toward learning and using those languages, and a way that anyone can do a whole lot more with their computer.
 
@@ -122,29 +122,29 @@ How many rows are in this spreadsheet? You can count manually in Excel, sure. Or
 
 Ok, so let's try CSVKit. For a quick peek at that file, type `csvlook fatal[tab complete]`.
 
-![csvlook raw screenshot uk](images/uk_crime_csvlook_ss.png) REPLACE
+![csvlook raw screenshot uk](police_shootings_csvlook_ss)
 
 Ack. Not so good. Let's clean that up a bit by piping the output of that command into a `less -S` command, which allows us to look at the data one page at a time. With `-S` we cut the lines off at the width of our terminal window, so we can organize things a bit. So you're going to type in `csvlook fatal[tab complete] | less -S`. You can see the left and right arrows to see the full rows. Hit `q` to get out of that view.
 
-![csvlook screenshot](images/uk_csvlook_less_ss.png)
+![csvlook screenshot](images/police_shootings_csvlook_less_ss.png)
 
 OK, now we're getting somewhere. We can cleanly see what we're working with, but scrolling back and forth is a bit annoying. Let's pare this down a bit. How about we start by listing out the columns. Enter `csvcut -n fatal[tab complete]`.
 
-![csvcut screenshot](images/uk_csvcut_n_ss.png)
+![csvcut screenshot](images/police_shootings_csvcut_n_ss.png)
 
 For our purposes, we probably don't need all 19 of these columns. Let's just ride with `2,5,6,8,12,13,14,15`. Luckily CSVKit makes this very simple with the `csvcut` command using either the column numbers or the column names. Let's go with column numbers for now. So enter `csvcut -c 2,5,6,8,12,13,14,15 fatal[tab complete]`.
 
 Notice what happens? Your computer is doing exactly what you're telling it to do: Cutting those columns from the original data set and printing them to the terminal window.
 
-![csvcut no redirect screenshot](images/csvcut_uk_ss.png)
+![csvcut no redirect screenshot](images/csvcut_ps_ss.png)
 
 We'd probably prefer those new columns are available to us in a new sheet. Using the `>` redirection command from above, let's take the previous command and use it to create a new CSV. Enter `csvcut -c 2,5,6,8,12,13,14,15 fatal[tab complete] > shootings_trimmed.csv`. If you enter the command and nothing happens, that's good! Now try `csvcut -n` on our new CSV, `shoot[tab complete]`.
 
-![csvcut on new trimmed file](images/uk_trimmed_csvcut_n.png)
+![csvcut on new trimmed file](images/ps_trimmed_csvcut_n.png)
 
 Ah ha! Now we're down to eight columns. That's a bit more manageable. Let's run some basic stats on these columns with the `csvstat` command. So, `csvstat shoot[tab complete].` This command quickly summarizes the data in our columns, giving us a quick overview of what we're working with. The `city` and `name` statistics aren't all that telling, so there's no reason to focus there right now. But the `state`, `gender`, and `race` columns did return some basic counts that we can look at.
 
-![stats screenshot](images/uk_stats_ss.png)
+![stats screenshot](images/ps_stats_ss.png)
 
 Now we have a quick idea that there are 30 unique weapons, with the leading one being "gun" coming in at 6,037 total. We can also see that "W" was the most common race logged (4,651), and the vast majority of the shootings -- 9,937 -- were of males.
 
@@ -152,7 +152,7 @@ Interesting. Obviously you're not going to write a story relying only on this su
 
 I want to dig in a bit on the type of race of victims that were reportedly "unarmed". Luckily we can do this very easily. First, let's grab all the rows that match "unarmed": `csvcut 1-8 shoot[tab complete] | csvgrep -c armed_with -m "unarmed" | csvsort -c "race" -r | csvlook`
 
-![Supermarket screenshot](images/uk_supermarket_ss.png)
+![Supermarket screenshot](images/ps_unarmed_ss.png)
 
 So now we have data for just the unarmed victims. We can break this off into its own data set rather easily. If you press the `up` arrow you can cycle through your previous commands so you don't have to type that long string again. Do that until you come to that very long command we just did. Take off the last command and the pipe `| csvlook` (it'll help with formatting), and add the redirect `>` and a new filename like `fs_unarmed.csv`.
 
@@ -160,7 +160,9 @@ So it'll look like this: `csvcut -c 1-8 shootings_trimmed.csv | csvgrep -c armed
 
 Now, let's run `csvstat` on our new sheet: `csvstat fs_un[tab complete]`.
 
-![supermarket stats new sheet screenshot](images/uk_supermarket_stat_final.png)
+![armed_with stats new sheet screenshot](images/ps_unarmed_stat_final.png)
+
+![race stats new sheet screenshot](images/ps_race_stat_final.png)
 
 You can see that we now have just one item in the "armed_with" field, and the number -- 565 -- matches the stats from when we ran this the first time. We can see that the data includes 6 unique types of race, the most common of which is "W" (222) followed closely by "B" (180). There's also a lot of "H".
 
