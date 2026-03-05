@@ -112,7 +112,7 @@ Let's get out of our `QuickTest` directory with `cd ..`. Now let's remove that f
 That was just a quick example to show how we can create directories, files, files within directories, and then remove them.
 
 #### Let's jump in to CSVKit.
-For my quick tutorial we'll be using [fatal police shootings data](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) I helped collect over a ten-year period when I was a data reporter for [The Washington Post](https://www.washingtonpost.com). The file we'll start with is called [fatal-police-shootings-data.csv](https://github.com/stevenrich/intro-to-the-command-line/blob/master/fatal-police-shootings-data.csv). To get the raw data, click on the file name in the main repo, click `Raw` to get the raw data, and then save-as with whatever file name you want in the `.csv` format.
+For my quick tutorial we'll be using [fatal police shootings data](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) I helped collect over a ten-year period when I was a data reporter for [The Washington Post](https://www.washingtonpost.com). The file we'll start with is called [fatal-police-shootings-data.csv](https://github.com/stevenrich/intro-to-the-command-line/blob/main/fatal-police-shootings-data.csv). To get the raw data, click on the file name in the main repo, click `Raw` to get the raw data, and then save-as with whatever file name you want in the `.csv` format.
 
 The data set includes demographic info, location data, threat type, and other information that could come in handy depending on what you're trying to do. You could always open Excel to peek at your data:
 
